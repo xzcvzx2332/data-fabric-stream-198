@@ -1,0 +1,1 @@
+const service_tira = <T>(args: T): T => { return args; };
