@@ -1,0 +1,1 @@
+const service_v8py = <T>(args: T): T => { return args; };
